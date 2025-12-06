@@ -6,6 +6,7 @@ public class Consecutive {
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == 1) {
                 currentCount++;
+                // maxCount = Math.max(MaxCount,currentCount);
                 if (currentCount > maxCount) {
                     maxCount = currentCount;
                 }
