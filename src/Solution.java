@@ -13,13 +13,16 @@ class Solution {
             }
 
         }
+        System.out.println(secMax);
         return secMax;
 
 
     }
 
     public static void main(String[] args) {
+        int [] arr ={2,5,3};
         Solution s1 = new Solution();
+        s1.getSecondLargest(arr);
 
     }
 }
