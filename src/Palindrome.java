@@ -11,6 +11,7 @@ public boolean isPalindrome(int x) {
         rev = rev * 10 + num2  ;
 
     }
+    System.out.println(original == rev);
     return original == rev;
 }
 

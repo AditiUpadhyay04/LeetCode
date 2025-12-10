@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class OnePlus {
     public int[] plusOne(int[] digits) {
         int n = digits.length;
@@ -13,13 +15,16 @@ public class OnePlus {
 
         int[] result = new int[n + 1];
         result[0] = 1;
+
         return result;
     }
 
     public static void main(String[] args) {
-        int [] arr = {1,2,3};
+        int [] arr = {3,9};
         OnePlus op = new OnePlus();
-        op.plusOne(arr);
+        int[] result = op.plusOne(arr);
+        System.out.println(Arrays.toString(result));
+
 
     }
 }
