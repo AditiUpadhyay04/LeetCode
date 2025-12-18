@@ -21,7 +21,7 @@ public class LeetCode169 {
         }
 
     public static void main(String[] args) {
-            int [] arr = {3,2,3,2,3,2,2};
+            int [] arr = {3,2,2,2,3,3};
         LeetCode169 L1 = new LeetCode169();
         L1.majorityElement(arr);
 
