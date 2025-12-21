@@ -2,7 +2,6 @@ public class LeetCode169 {
         public int majorityElement(int[] nums) {
             int count = 0;
             int val = 0;
-
             for(int i = 0 ; i < nums.length ; i++){
                 if(count == 0){
                     val = nums[i];
