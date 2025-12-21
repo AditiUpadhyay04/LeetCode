@@ -1,5 +1,4 @@
 public class LeetCode169 {
-
         public int majorityElement(int[] nums) {
             int count = 0;
             int val = 0;
@@ -24,7 +23,6 @@ public class LeetCode169 {
             int [] arr = {3,2,2,2,3,3};
         LeetCode169 L1 = new LeetCode169();
         L1.majorityElement(arr);
-
     }
 
 }

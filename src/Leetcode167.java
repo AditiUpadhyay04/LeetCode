@@ -18,10 +18,8 @@ public class Leetcode167 {
                 else
                     i++;
             }
-
             return res;
         }
-
     public static void main(String[] args) {
         int[] arr = {2,7,9,20};
         int target = 9;
