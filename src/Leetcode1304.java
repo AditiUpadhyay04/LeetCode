@@ -14,10 +14,7 @@ public class Leetcode1304 {
                 num++;
 
             }
-
             return arr;
-
-
         }
 
     public static void main(String[] args) {
