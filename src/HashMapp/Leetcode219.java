@@ -16,9 +16,7 @@ public class Leetcode219 {
         }
         return false;
     }
-
     public static void main(String[] args) {
 
     }
-
 }
