@@ -14,7 +14,6 @@ public class Leetcode152 {
                     currMin = temp;
 
                 }
-
                 currMax = Math.max(nums[i] , currMax * nums[i]);
                 currMin = Math.min(nums[i] , currMin * nums[i]);
 
