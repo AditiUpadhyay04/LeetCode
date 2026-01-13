@@ -1,6 +1,5 @@
 public class Leetcode_58 {
-
-        public int lengthOfLastWord(String s) {
+    public int lengthOfLastWord(String s) {
             s = s.trim();          // trim first
             int n = s.length();    // then get length
             int count = 0;
@@ -19,6 +18,6 @@ public class Leetcode_58 {
        Leetcode_58 L1 = new Leetcode_58();
        L1.lengthOfLastWord(s);
     }
-    }
+}
 
 
