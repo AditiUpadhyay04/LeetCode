@@ -17,13 +17,10 @@ public class Leetcode152 {
                 currMax = Math.max(nums[i] , currMax * nums[i]);
                 currMin = Math.min(nums[i] , currMin * nums[i]);
 
-
                 max = Math.max(max , currMax);
-
             }
             System.out.println(max);
             return max;
-
         }
 
     public static void main(String[] args) {
