@@ -23,7 +23,6 @@ public class Leetcode_13 {
             if (c == 'D') return 500;
             return 1000; // M
         }
-
     public static void main(String[] args) {
       String s = "III";
       Leetcode_13 l1 = new Leetcode_13();
