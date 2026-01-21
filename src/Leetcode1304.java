@@ -16,11 +16,10 @@ public class Leetcode1304 {
             }
             return arr;
         }
-
     public static void main(String[] args) {
         int n = 5;
         Leetcode1304 l1 = new Leetcode1304();
         l1.sumZero(n);
     }
-    }
+}
 
