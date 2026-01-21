@@ -14,6 +14,7 @@ public class Leetcode342 {
         }
 
     public static void main(String[] args) {
+     Leetcode342 l1 = new Leetcode342();
 
     }
 }
