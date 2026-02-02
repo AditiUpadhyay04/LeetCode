@@ -21,7 +21,6 @@ public class Leetcode1343 {
                     if(max >= threshold){
                         count++;
                     }
-
                     sum -= arr[i];
                     i++;
                     j++;
