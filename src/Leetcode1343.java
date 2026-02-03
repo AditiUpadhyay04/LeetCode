@@ -26,6 +26,7 @@ public class Leetcode1343 {
                     j++;
                 }
             }
+
             return count;
         }
 
