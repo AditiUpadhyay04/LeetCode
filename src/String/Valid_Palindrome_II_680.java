@@ -1,5 +1,4 @@
 package String;
-
 public class Valid_Palindrome_II_680 {
         public boolean isValid(String s, int i , int j){
             while(i < j){
