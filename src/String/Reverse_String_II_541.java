@@ -4,7 +4,9 @@ public class Reverse_String_II_541 {
 
         public void reverse(char[] arr, int i , int j){
             while(i < j){
+
                 char temp = arr[i];
+
                 arr[i] = arr[j];
                 arr[j] = temp;
                 i++;
