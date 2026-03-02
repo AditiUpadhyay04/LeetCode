@@ -3,7 +3,6 @@ package GFG;
 public class Floor_in_a_sorted_array {
 
         public int findFloor(int[] arr, int x) {
-            // code here
             int n = arr.length;
             int low = 0;
             int high = n - 1;
