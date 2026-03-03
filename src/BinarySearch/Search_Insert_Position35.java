@@ -8,7 +8,6 @@ public class Search_Insert_Position35 {
             int low = 0;
             int high =  n - 1;
 
-
             while(low <= high){
                 int mid = low + (high- low) / 2;
 
