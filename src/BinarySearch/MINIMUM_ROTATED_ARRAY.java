@@ -19,9 +19,9 @@ public class MINIMUM_ROTATED_ARRAY {
             return nums[high];
             */
 
-            while(low < high){
+            while(low <= high){
                 int mid = low + (high - low) / 2;
-                if(nums[low] < nums[mid]){
+                if(nums[low] <= nums[mid]){
                     ans = Math.min(ans , nums[low]);
                     low = mid + 1;
                 }
