@@ -9,7 +9,6 @@ public class IsSubsequence_392 {
             while (i < n && j < m){
                 if(s.charAt(i) == t.charAt(j)){
                     i++;
-                    j++;
                 }
                 j++;
             }
