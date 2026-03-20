@@ -10,8 +10,7 @@ public class ReverseString {
             s[right] = temp;
             left++;
             right--;
-
-
+            
         }
         System.out.println(s);
 
