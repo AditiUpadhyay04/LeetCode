@@ -11,7 +11,7 @@ public class Maximum_Twin_Sum_Linked_List_2130 {
      *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
      * }
      */
-        public ListNode reverseList(ListNode head) {
+       /* public ListNode reverseList(ListNode head) {
             ListNode temp = head;
             ListNode prev = null;
             while(temp != null){
@@ -47,5 +47,7 @@ public class Maximum_Twin_Sum_Linked_List_2130 {
     public static void main(String[] args) {
 
     }
+
+        */
 }
 

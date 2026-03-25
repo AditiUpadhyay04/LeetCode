@@ -2,7 +2,7 @@ package LInkedList;
 
 public class OddEvenLinkeddList {
 
-        public ListNode oddEvenList(ListNode head) {
+       /* public ListNode oddEvenList(ListNode head) {
 
             if(head == null || head.next == null) return head;
             ListNode odd = head;
@@ -23,5 +23,7 @@ public class OddEvenLinkeddList {
 
     public static void main(String[] args) {
     }
+
+        */
 }
 

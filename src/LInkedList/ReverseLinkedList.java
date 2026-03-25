@@ -1,6 +1,6 @@
 package LInkedList;
 
-public class ReverseLinkedList_206 {
+public class ReverseLinkedList{
     /**
      * Definition for singly-linked list.
      * public class ListNode {

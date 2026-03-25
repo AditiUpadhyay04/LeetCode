@@ -12,7 +12,7 @@ public class Sort_linked_list_of_0s_1s_and_2s {
             next = null;
         }
     }*/
-    public Node segregate(Node head) {
+    /*public Node segregate(Node head) {
         Node dummy = new Node(-1);
 
         if (head == null || head.next == null) return head;
@@ -63,5 +63,7 @@ public class Sort_linked_list_of_0s_1s_and_2s {
     public static void main(String[] args) {
 
     }
+
+     */
 }
 

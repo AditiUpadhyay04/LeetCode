@@ -2,7 +2,7 @@ package GFG;
 
 public class FindLengthOfLoop {
 
-        public int lengthOfLoop(Node head) {
+       /* public int lengthOfLoop(Node head) {
 
             Node slow = head;
             Node fast = head;
@@ -28,4 +28,6 @@ public class FindLengthOfLoop {
     public static void main(String[] args) {
 
     }
+
+        */
 }

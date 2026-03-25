@@ -11,7 +11,7 @@ public class Reorder_List_143 {
      *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
      * }
      */
-        public ListNode reverse(ListNode head){
+       /* public ListNode reverse(ListNode head){
             ListNode temp = head;
             ListNode prev = null;
             while(temp != null) {
@@ -52,5 +52,7 @@ public class Reorder_List_143 {
     public static void main(String[] args) {
 
     }
+
+        */
 }
 

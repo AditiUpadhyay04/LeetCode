@@ -11,7 +11,7 @@ public class RemoveDuplicateFromSortedList_83 {
      *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
      * }
      */
-        public ListNode deleteDuplicates(ListNode head) {
+       /* public ListNode deleteDuplicates(ListNode head) {
             ListNode curr = head;
 
             while(curr != null && curr.next != null){
@@ -30,5 +30,7 @@ public class RemoveDuplicateFromSortedList_83 {
     public static void main(String[] args) {
 
     }
+
+        */
 }
 
