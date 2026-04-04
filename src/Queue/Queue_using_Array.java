@@ -8,9 +8,9 @@ public class Queue_using_Array {
     int currSize = 0;
     int start = -1;
     int end = -1;
+
     boolean isFull(){
         return currSize == size;
-
     }
     boolean isEmpty(){
         return start == -1;
