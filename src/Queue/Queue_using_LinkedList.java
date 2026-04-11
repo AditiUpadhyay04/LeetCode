@@ -13,6 +13,7 @@ class Node{
     Node end = null;
     int size = 0;
     boolean isEmpty(){
+
         return start == null;
     }
     void push(int x) {
