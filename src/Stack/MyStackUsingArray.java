@@ -1,5 +1,4 @@
 package Stack;
-
 public class MyStackUsingArray {
     int[] arr;
     int capacity;
