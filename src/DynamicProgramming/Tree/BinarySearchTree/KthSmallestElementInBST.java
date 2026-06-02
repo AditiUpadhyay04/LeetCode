@@ -13,7 +13,6 @@ public class KthSmallestElementInBST {
               this.right = right;
           }
       }
-
     class Solution {
         int ans = -1;
         int count = 0;
