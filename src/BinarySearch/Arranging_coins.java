@@ -1,7 +1,7 @@
 package BinarySearch;
 
-public class Arranging_coins {
-        public int arrangeCoins(int n) {
+public class Arranging_coins{
+        public int arrangeCoins(int n){
             int row = 1;
             int count = 0;
 
@@ -14,7 +14,7 @@ public class Arranging_coins {
 
         }
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
     }
 }
