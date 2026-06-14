@@ -6,7 +6,7 @@ import java.util.Queue;
 
 public class NumberOfProvinces {
         public void bfs(int id , int [] viss , ArrayList<ArrayList<Integer>> adj) {
-            // code here
+            
             int v = adj.size();
             //boolean [] vis = new boolean[v];
 
