@@ -26,5 +26,6 @@ public class LongestContinousIncreasingSubsequence{
     public static void main(String[] args){
 
     }
+        
 }
 
