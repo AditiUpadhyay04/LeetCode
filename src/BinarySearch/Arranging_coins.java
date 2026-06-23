@@ -11,7 +11,6 @@ public class Arranging_coins{
                 count++;
             }
             return count;
-
         }
 
     public static void main(String[] args){
