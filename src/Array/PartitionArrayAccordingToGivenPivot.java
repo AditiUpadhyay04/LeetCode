@@ -19,6 +19,7 @@ public class PartitionArrayAccordingToGivenPivot {
                     list3.add(nums[i]);
                 }
             }
+                  
             ans.addAll(list1);
             ans.addAll(list2);
             ans.addAll(list3);

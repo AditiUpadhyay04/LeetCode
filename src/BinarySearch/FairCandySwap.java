@@ -2,7 +2,7 @@ package BinarySearch;
 
 import java.util.HashSet;
 
-public class FairCandySwap {
+public class FairCandySwap{
         public int[] fairCandySwap(int[] aliceSizes, int[] bobSizes) {
             int n = aliceSizes.length;
             int m = bobSizes.length;
