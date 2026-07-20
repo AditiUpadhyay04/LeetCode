@@ -10,7 +10,6 @@ public class PascalsTriangleII {
         List<Integer> ans = new ArrayList<>();
 
         long val = 1;
-
         for (int i = 0; i <= rowIndex; i++) {
             ans.add((int) val);
 
