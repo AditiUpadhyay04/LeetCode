@@ -1,7 +1,6 @@
 package HashMapp;
 
 import java.util.HashSet;
-
 public class HappyNumber {
         public boolean isHappy(int n) {
             HashSet<Integer> hs = new HashSet<>();
