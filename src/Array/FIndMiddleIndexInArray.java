@@ -1,5 +1,4 @@
 package Array;
-
 public class FIndMiddleIndexInArray {
         public int findMiddleIndex(int[] nums) {
             int n = nums.length;
