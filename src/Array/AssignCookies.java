@@ -20,7 +20,6 @@ public class AssignCookies {
             }
             return i;
         }
-
     public static void main(String[] args) {
 
     }
